@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ae57b56c-437e-404b-b663-edc5833722c8" solutionId="ae57b56c-437e-404b-b663-edc5833722c8" resetWebServer="false" sharePointProductVersion="15.0" name="CKO.Responsive.Solutions" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="487e2add-f789-4ba7-a77e-61b2bed35621" />
+  </features>
+</package>
